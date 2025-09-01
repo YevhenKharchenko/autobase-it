@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://match3xise.pro/sitemap.xml
+Sitemap: https://autobaseit.online/sitemap.xml
